@@ -6,31 +6,39 @@
 
 
 
+<!DOCTYPE html>
+<html lang="pt-br">
 
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+ 
+</head>
 
-Portfólio Full Stack Junior
+<body>
+    <div class="container">
+        <h1>Portfólio Full Stack Junior</h1>
+        <p>Seja bem-vindo(a) ao meu portfólio!</p>
+        <p>Este espaço reúne projetos que desenvolvi ao longo da minha jornada como desenvolvedor(a) Full Stack Junior. Aqui você encontrará demonstrações das minhas habilidades em:</p>
+        <h2>Front-end:</h2>
+        <ul>
+            <li>HTML</li>
+            <li>CSS</li>
+            <li>JavaScript</li>
+            <li>Bibliotecas (Bootstrap, jQuery)</li>
+        </ul>
+        <h2>Back-end:</h2>
+        <ul>
+            <li>Linguagens de programação (Java, PHP)</li>
+            <li>Frameworks (Cakephp, Laravel)</li>
+            <li>Bancos de dados (MySQL)</li>
+            <li>Controle de versão (Git)</li>
+        </ul>
+        <p>Sou um(a) desenvolvedor(a) Full Stack Junior apaixonado(a) por tecnologia e com grande interesse em aprender e me desenvolver na área. Busco constantemente aprimorar minhas habilidades e me manter atualizado(a) com as últimas tendências do mercado. Acredito que a colaboração e o trabalho em equipe são essenciais para o sucesso de qualquer projeto.</p>
+        <p>Estou sempre em busca de novos desafios e oportunidades para aprender e crescer como profissional. Se você tiver um projeto interessante ou precisar de um(a) desenvolvedor(a) para sua equipe, entre em contato comigo!</p>
+        <p>Obrigado(a) por sua visita!</p>
+    </div>
+</body>
 
-Seja bem-vindo(a) ao meu portfólio!
+</html>
 
-Este espaço reúne projetos que desenvolvi ao longo da minha jornada como desenvolvedor(a) Full Stack Junior. Aqui você encontrará demonstrações das minhas habilidades em:
-
-Front-end:
-
-HTML
-CSS
-JavaScript
-Bibliotecas (Bootstrap, jQuery)
-
-Back-end:
-
-Linguagens de programação (Java, PHP)
-Frameworks (Cakephp, Laravel)
-Bancos de dados (MySQL)
-Controle de versão (Git)
-
-
-Sou um(a) desenvolvedor(a) Full Stack Junior apaixonado(a) por tecnologia e com grande interesse em aprender e me desenvolver na área. Busco constantemente aprimorar minhas habilidades e me manter atualizado(a) com as últimas tendências do mercado. Acredito que a colaboração e o trabalho em equipe são essenciais para o sucesso de qualquer projeto.
-
-Estou sempre em busca de novos desafios e oportunidades para aprender e crescer como profissional. Se você tiver um projeto interessante ou precisar de um(a) desenvolvedor(a) para sua equipe, entre em contato comigo!
-
-Obrigado(a) por sua visita!
