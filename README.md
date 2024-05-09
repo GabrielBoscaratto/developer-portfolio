@@ -115,20 +115,20 @@ Eg:
 
 ```javascript
 export const personalData = {
-  name: "ABU SAID",
+  name: "Gabriel Boscaratto",
   profile: "/profile.png",
   designation: "Full-Stack Software Developer",
-  description: "My name is ABU SAID....",
-  email: "abusaid7388@gmail.com",
-  phone: "+8801608797655",
-  address: "Dhaka, Bangladesh",
-  github: "https://github.com/said7388",
-  facebook: "https://www.facebook.com/abusaid.riyaz/",
-  linkedIn: "https://www.linkedin.com/in/abu-said-bd/",
-  twitter: "https://twitter.com/said7388",
-  stackOverflow: "https://stackoverflow.com/users/16840768/abu-said",
-  leetcode: "https://leetcode.com/said3812/",
-  devUsername: "said7388",
+  description: "My name is Gabriel Boscaratto....",
+  email: "Gabrielboscaratto98@gmail.com",
+  phone: "",
+  address: "São Paulo - Brasil",
+  github: "https://github.com/gabrielboscaratto",
+  facebook: "",
+  linkedIn: "https://www.linkedin.com/in/gabriel-boscaratto-686298195/",
+  twitter: "",
+  stackOverflow: "",
+  leetcode: "",
+  devUsername: "",
   resume: "...",
 };
 ```
